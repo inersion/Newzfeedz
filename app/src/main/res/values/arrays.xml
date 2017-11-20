@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string-array name="sources_list">
+      <item>Business Insider</item>
+      <item>Engadget</item>
+      <item>Fortune</item>
+      <item>Mashable</item>
+      <item>Reuters</item>
+      <item>Time</item>
+   </string-array>
+
+   <string-array name="sort_list">
+      <item>Top Headlines</item>
+      <item>Latest News</item>
+   </string-array>
+
+</resources>

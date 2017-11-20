@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Newsfeedz</string>
+    <string name="api_key">0eec9da17d274fcaa3cbbad5caacf3c7</string>
+    <string name="web_service_url">https://newsapi.org/v1/articles?</string>
+    <string name="author">Author: %s</string>
+    <string name="title">Title: %s</string>
+    <string name="description">Description: %s</string>
+    <string name="url">URL: %s</string>
+    <string name="publishedAt">Published: %s</string>
+    <string name="invalid_url">Invalid URL</string>
+    <string name="action_settings">Settings</string>
+    <string name="restarting_news">News feed will restart with your new settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+</resources>

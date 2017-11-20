@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+   xmlns:android="http://schemas.android.com/apk/res/android">
+
+   <ListPreference
+      android:entries="@array/sources_list"
+      android:entryValues="@array/sources_list"
+      android:key="pref_Sources"
+      android:title="News Source"
+      android:summary="Choice of News Source"
+      android:persistent="true"
+      android:defaultValue="Business Insider" />
+
+   <ListPreference
+       android:entries="@array/sort_list"
+       android:entryValues="@array/sort_list"
+       android:key="pref_Sort"
+       android:title="Sort By"
+       android:summary="Choice to Sort By"
+       android:persistent="true"
+       android:defaultValue="Top Headlines" />
+
+
+</PreferenceScreen>
